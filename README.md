@@ -1,2 +1,3 @@
 # first_one
-first repo - test
+first repo
+making a first commit
